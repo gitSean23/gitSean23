@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sean
-- 👀 I’m interested in space and software development
-- 🌱 I’m currently learning Rust and databases
-- 💞️ I’m looking to collaborate on hardware based projects
+- 👀 I’m interested in AI, space, and software development
+- 🌱 I’m currently learning Next.js and React Native
+- 💞️ I’m looking to collaborate on AI based projects
 - 📫 How to reach me ...
 
 <!---
